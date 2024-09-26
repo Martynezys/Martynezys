@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤓Currently working on my own game in UE5.<br>🤝Looking to collaborate on any project that is interesting.<br>🌱Currently experimenting with everything I find interest in.<br>⚡Fun fact --> I never did learn how to properly do UVs.
+🤓Currently working on my own game in UE5.<br>⚡Fun fact --> I never did learn how to properly do UVs.
 
 
 ## 🌐 Socials:
