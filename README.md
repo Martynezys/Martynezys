@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤓Currently working on my own game in UE5.<br>⚡Fun fact --> I never did learn how to properly do UVs.
+-> I use arch by the way!
 
 
 ## 🌐 Socials:
