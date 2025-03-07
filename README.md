@@ -1,6 +1,7 @@
+![Header](./your-header-image-name.png)
+
 # 💫 About Me:
 -> I use arch by the way!
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m__maruna) 
