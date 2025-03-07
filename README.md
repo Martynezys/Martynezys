@@ -1,5 +1,3 @@
-![Header](./your-header-image-name.png)
-
 # 💫 About Me:
 -> I use arch by the way!
 
